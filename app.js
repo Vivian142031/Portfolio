@@ -1,1 +1,1 @@
-console.log ("Enviando para o GitHub");
+onclick="alert('Olá mundo')"
